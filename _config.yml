@@ -11,7 +11,7 @@ email: henrique@dryworks.com.br
 description: > # this means to ignore newlines until "baseurl:"
   "Se vi mais longe foi por estar de pé sobre ombros de gigantes."
   - Isaac Newton -
-baseurl: "henriquehsilva.github.io" # the subpath of your site, e.g. /blog
+baseurl: "henriquehsilva.github.io/henriquesilvadev" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  henriquehsilva
 
