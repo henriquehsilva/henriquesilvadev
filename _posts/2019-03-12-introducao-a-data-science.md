@@ -1,13 +1,29 @@
 ---
 layout: post
-title:  "Plot Financial Data Using Matplotlib (super basic)"
-date:   2018-10-23 21:30:09 +0900
+title:  "Introdução a Data Science"
+date:   2019-03-13 1:30:09 +0900
 comments: true
 tags:
-- programming
+- datascience
 ---
 
-## import libraries
+## Afinal o que é Data Science?
+
+A ciência de dados é um campo multidisciplinar onde os envolvidos no processo buscam extrair conhecimento e insights de dados, que utiliza métodos, processos, algoritmos e sistemas científicos metemáticos.
+Vem ganhando cada vez mais popularidade, já a algum tempo as empresas descobriram o valor no grande volume de dados sendo gerados a todo momento de forma expodêncial, um verdadeiro tesouro, só esperando mara ser minerado.
+
+<img src="https://media.giphy.com/media/8UHerDqCSzSR3rxPEZ/giphy.gif">
+
+Vamos entender agora o que foi colocado acima:
+
+#### Primeiro - O que quer dizer se tratar de um campo multidisciplinar?
+
+O cientista de dados é o cerne de três universos de conhecimento, Ciencia da Computação, Dominio do Negocio e Conhecimento Matematico e Estatistico.
+
+<img src="https://goo.gl/jq67PA">
+###### [fonte: https://www.datanami.com/2018/09/17/improving-your-odds-with-data-science-hiring/]
+
+
 In order to plot the data, we need to import libraries for dataframe and plot, also set plot inline if you're  using a notebook.
 ```python
 import numpy as np
@@ -37,7 +53,7 @@ for code in suspicious_asset_code:
 
 This only gives me one figure with all assets, it's ugly. I want to plot them one by one.
 
-Subplot will give you figures put up together, use 
+Subplot will give you figures put up together, use
 ```python
 # treat the whole figure as a grid, specify how many rows and columns you wanna plot and the index of the current sub plot
 fig.add_subplot(row, columns, index)
