@@ -11,7 +11,7 @@ tags:
 
 A ciência de dados é um campo multidisciplinar onde os envolvidos no processo buscam extrair conhecimento e insights de dados, que utiliza métodos, processos, algoritmos e sistemas científico matemáticos.
 
-Vem ganhando cada vez mais popularidade, sendo que já a algum tempo as empresas descobriram o valor no grande **volume** de dados sendo gerados em uma **velocidade** e **variedade**¸ expodêncial, um verdadeiro tesouro, só esperando para ser minerado.
+Vem ganhando cada vez mais popularidade, sendo que já a algum tempo as empresas descobriram o valor no grande **volume** de dados sendo gerados em uma **velocidade** e **variedade** expodêncial, um verdadeiro tesouro, só esperando para ser minerado.
 
 <img src="https://media.giphy.com/media/8UHerDqCSzSR3rxPEZ/giphy.gif">
 
