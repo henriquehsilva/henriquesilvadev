@@ -24,6 +24,6 @@ A **ciência de dados é** o cerne de três universos de conhecimento, **Ciênci
 <img src="https://goo.gl/jq67PA">
 ###### [fonte: https://www.datanami.com/2018/09/17/improving-your-odds-with-data-science-hiring/]
 
-Nesta imagem podemos ver melhor essa junção mencionada, em um primeiro momento isso pode assustar, mas isso é um abre muitas possibilidades para aqueles que querem iniciar ou trilhar uma nova carreira.
+Nesta imagem podemos ver melhor essa junção mencionada, em um primeiro momento isso pode assustar, mas isso abre muitas possibilidades para aqueles que querem iniciar ou trilhar uma nova carreira.
 
 Por hora é só, mas pretendo escrever novos posts dentro da serie: "Introdução a Data Science".
