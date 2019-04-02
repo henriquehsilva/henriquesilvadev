@@ -7,7 +7,7 @@ tags:
 - [javascript]
 ---
 
-<img src="{{ site.baseurl }}/img/js_spread_rest_bg.jpg">
+<img src="{{ site.baseurl }}/img/js_spread_rest_bg.jpg?w=730">
 
 ## O operador spread (...)
 
