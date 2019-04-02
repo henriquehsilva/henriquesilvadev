@@ -7,6 +7,8 @@ tags:
 - [javascript]
 ---
 
+## Vamos falar um pouco de spread/rest
+
 <img src="{{ site.baseurl }}/img/js_spread_rest_bg.png">
 
 ## O operador spread (...)
