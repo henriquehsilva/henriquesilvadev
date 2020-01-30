@@ -52,15 +52,6 @@ layout: default
 
   <div class="col-md-4">
     <div class="post-contents">
-      <i class="fa fa-tags">&nbsp;&nbsp; Tags</i><br />
-      {% for tag in site.tags %}
-      {% assign t = tag | first %}
-      {% assign posts = tag | last %}
-      <span class="label label-default">{{t | downcase | replace:" ","-" }} ( {{ posts | size }} )</span><br />
-      {% endfor %}
-    </div>
-    <br />
-    <div class="post-contents">
       <img src="{{ site.baseurl }}/img/me.jpg" style="margin:20px auto 0 auto;">
       <p style="font-size:18px;margin-top:10px">Sou um programador apaixonado por desenvolvimento de software, estou sempre iniciando uma caminhada de estudos em alguma tecnologia.</p>
       <br />
