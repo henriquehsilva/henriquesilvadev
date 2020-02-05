@@ -10,7 +10,7 @@ tags:
 <img src="{{ site.baseurl }}/img/escola-ia.png">
 
 #### Teve inicio hoje as aulas da <b>[Escola Livre de Inteligência Artificial](http://escolalivre-ia.com.br/)</b>, tendo como objetivo ensinar IA gratuitamente. 
-#### A aula aconteceu no auditório Ada Lovelace (Av. Angélica, 2318 - São Paulo/SP) - espaço sedido pela <b>[Lambda3](https://www.lambda3.com.br/)</b>. 
+#### A aula aconteceu no auditório Ada Lovelace (Av. Angélica, 2318 - São Paulo/SP) - espaço cedido pela <b>[Lambda3](https://www.lambda3.com.br/)</b>. 
 #### Apesar da aula ter sido presencial, rolou live para o pessoal participar on-line,as aulas podem ser acompanhadas pelo <b>[Canal da Escola no Youtube](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)</b>
 #### Os professores: <b>[Andréa Longarini](https://br.linkedin.com/in/andr%C3%A9a-longarini-2421325b)</b> e <b>[Thiago Kuma](https://www.linkedin.com/in/thiago-kuma/)</b> ministraram a aula de Introdução a Big Data, IA e Aprendizagem de Máquina.
 
