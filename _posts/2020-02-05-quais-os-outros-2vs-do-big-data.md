@@ -13,7 +13,7 @@ tags:
 
 ### Os outros 2V's do Big Data
 
-Este post é em resposta a <b>questão 2 da primeira aula do curso de IA da Escola Livre</b>, se não sabe do que estou falando, dê uma olhada nestes posts: 
+Este post é em resposta a <b>questão 2</b> da primeira aula do curso de IA da Escola Livre, se não sabe do que estou falando, dê uma olhada nestes posts: 
 * [https://henriquesilva.dev/2020/02/05/quais-3vs-do-big-data.html](https://henriquesilva.dev/2020/02/05/quais-3vs-do-big-data.html)
 * [https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html](https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html).
 

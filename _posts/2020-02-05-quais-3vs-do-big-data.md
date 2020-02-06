@@ -13,7 +13,7 @@ tags:
 
 ### 3V's do Big Data
 
-Este post é em resposta a <b>questão 1 da primeira aula do curso de IA da Escola Livre</b>, se não sabe do que estou falando, dê uma olhada neste post: [https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html](https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html).
+Este post é em resposta a <b>questão 1</b> da primeira aula do curso de IA da Escola Livre, se não sabe do que estou falando, dê uma olhada neste post: [https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html](https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html).
 
 A professora <b>[Andréa Longarini](https://br.linkedin.com/in/andr%C3%A9a-longarini-2421325b)</b> explica que os <b>3Vs</b> fazem referência aos <b>valores que caracterizam um Big Data, [Volume, Velocidade e Variedade]</b>. 
 
