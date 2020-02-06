@@ -21,7 +21,7 @@ Dados distribuído são os dados armazenados em diferentes dispositivos onde nem
 
 * <b>Escalabilidade</b> - você pode "facilmente" crescer a capacidade de atendimento adicionando novos nós de execução, isto permite atender grandes demandas no prazo estabelecido. Ao contrário do que as pessoas acham, não fica mais rápido. Você ter mais caminhões transportando uma caraga não entrega a carga mais rapidamente, apenas entrega mais carga no mesmo prazo.
 
-* <b>Resiliência</b> - se um nó tiver problemas os outros continuam operando e o sistema como um todo não pára.
+* <b>Resiliência</b> - se um nó tiver problemas os outros continuam operando e o sistema como um todo não para.
 
 Todas as demais vantagens são derivadas destas ou sem muita importância.
 
