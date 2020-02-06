@@ -15,9 +15,9 @@ tags:
 
 Este post é em resposta a <b>questão 3</b> da primeira aula do curso de IA da Escola Livre, se não sabe do que estou falando, dê uma olhada neste post: [https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html](https://henriquesilva.dev/2020/02/04/escola-livre-de-ia.html).
 
-Dados distribuído são os dados armazenados em diferentes dispositivos onde nem todos os dispositivos de armazenamento estão conectados a um processador comum. Onde partes do banco de dados são armazenadas em vários locais físicos e o processamento é distribuído entre vários CPU's([Cluster](https://pt.wikipedia.org/wiki/Cluster)).
+Dados distribuído são os dados armazenados em diferentes dispositivos onde nem todos os dispositivos de armazenamento estão conectados a um processador comum. Onde partes do banco de dados são armazenadas em vários locais físicos e o processamento é distribuído entre vários CPU's, [clusters ](https://pt.wikipedia.org/wiki/Cluster) de big data (Hadoop ou Spark).
 
-#### Vantagens
+#### Serve para fornecer
 
 * <b>Escalabilidade</b> - você pode "facilmente" crescer a capacidade de atendimento adicionando novos nós de execução, isto permite atender grandes demandas no prazo estabelecido. Ao contrário do que as pessoas acham, não fica mais rápido. Você ter mais caminhões transportando uma caraga não entrega a carga mais rapidamente, apenas entrega mais carga no mesmo prazo.
 
