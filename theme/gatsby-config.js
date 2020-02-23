@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: `Henrique Silva`,
-    subtitle: `software developer | data scientist | vegan`,
+    subtitle: `software developer | data scientist`,
     description: `Programer, Consultant and Lifelong Learner.`,
     author: `@hhsilva`,
   },
